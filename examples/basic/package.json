@@ -7,7 +7,7 @@
   },
   "dependencies": {
     "@accounts/rest-client": "0.33.1",
-    "koa": "2.15.3"
+    "koa": "3.0.1"
   },
   "devDependencies": {
     "esbuild": "^0.25.0",
