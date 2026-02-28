@@ -647,11 +647,11 @@ __metadata:
   linkType: hard
 
 "minimatch@npm:^8.0.2":
-  version: 8.0.4
-  resolution: "minimatch@npm:8.0.4"
+  version: 8.0.7
+  resolution: "minimatch@npm:8.0.7"
   dependencies:
     brace-expansion: "npm:^2.0.1"
-  checksum: 10/aef05598ee565e1013bc8a10f53410ac681561f901c1a084b8ecfd016c9ed919f58f4bbd5b63e05643189dfb26e8106a84f0e1ff12e4a263aa37e1cae7ce9828
+  checksum: 10/dead7be9ad3eac2b0f9796373aa345a194aed608622880621ce53e100d75ace295ed68b9ae59c2a4de0854435b8dcd56fb7692812dda1c439463ba44dae5252c
   languageName: node
   linkType: hard
 
